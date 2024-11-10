@@ -1,0 +1,36 @@
+      <style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+        }
+
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 98px;
+          height: 160px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+      </style>
+      <div id="gr_grid_widget_1731222894">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+            <h2>
+      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/87841833-haley-weller?shelf=read&utm_medium=api&utm_source=grid_widget">Most Recent Reads</a>
+    </h2>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="I Know Who You Are" rel="nofollow" href="https://www.goodreads.com/book/show/35483371-i-know-who-you-are"><img alt="I Know Who You Are" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550691609l/35483371._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Still Beating" rel="nofollow" href="https://www.goodreads.com/book/show/55882116-still-beating"><img alt="Still Beating" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605188396l/55882116._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Golden Spoon" rel="nofollow" href="https://www.goodreads.com/book/show/61273344-the-golden-spoon"><img alt="The Golden Spoon" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675909286l/61273344._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Slowest Burn" rel="nofollow" href="https://www.goodreads.com/book/show/203578853-the-slowest-burn"><img alt="The Slowest Burn" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705592384l/203578853._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Therapist" rel="nofollow" href="https://www.goodreads.com/book/show/55365680-the-therapist"><img alt="The Therapist" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604953785l/55365680._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="One True Loves" rel="nofollow" href="https://www.goodreads.com/book/show/27189194-one-true-loves"><img alt="One True Loves" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559960507l/27189194._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="It Starts with Us (It Ends with Us #2)" rel="nofollow" href="https://www.goodreads.com/book/show/60393672-it-starts-with-us"><img alt="It Starts with Us" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644605295l/60393672._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="It Ends with Us (It Ends with Us #1)" rel="nofollow" href="https://www.goodreads.com/book/show/27362503-it-ends-with-us"><img alt="It Ends with Us" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688011813l/27362503._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Darling Girls" rel="nofollow" href="https://www.goodreads.com/book/show/133286944-darling-girls"><img alt="Darling Girls" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687320002l/133286944._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="She's Not Sorry" rel="nofollow" href="https://www.goodreads.com/book/show/136142444-she-s-not-sorry"><img alt="She's Not Sorry" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689780106l/136142444._SX98_.jpg" /></a></div>
+    <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/87841833-haley-weller">Haley Weller's favorite books »</a>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Haley, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/grid_widget/87841833.Most%20Recent%20Reads?cover_size=medium&hide_link=&hide_title=&num_books=10&order=d&shelf=read&sort=date_added&widget_id=1731222894" type="text/javascript" charset="utf-8"></script>
